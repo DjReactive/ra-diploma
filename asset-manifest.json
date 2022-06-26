@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "https://djreactive.github.io/ra-diploma/static/css/main.217c6143.css",
+    "main.js": "https://djreactive.github.io/ra-diploma/static/js/main.981853dd.js",
+    "static/js/787.8276514b.chunk.js": "https://djreactive.github.io/ra-diploma/static/js/787.8276514b.chunk.js",
+    "static/media/banner.jpg": "https://djreactive.github.io/ra-diploma/static/media/banner.5fd2c60d58a8686daee0.jpg",
+    "static/media/footer-sprite.png": "https://djreactive.github.io/ra-diploma/static/media/footer-sprite.b3d5697aeb76ce9f8002.png",
+    "index.html": "https://djreactive.github.io/ra-diploma/index.html",
+    "main.217c6143.css.map": "https://djreactive.github.io/ra-diploma/static/css/main.217c6143.css.map",
+    "main.981853dd.js.map": "https://djreactive.github.io/ra-diploma/static/js/main.981853dd.js.map",
+    "787.8276514b.chunk.js.map": "https://djreactive.github.io/ra-diploma/static/js/787.8276514b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.217c6143.css",
+    "static/js/main.981853dd.js"
+  ]
+}
