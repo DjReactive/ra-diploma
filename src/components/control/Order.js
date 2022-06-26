@@ -36,10 +36,6 @@ function Order() {
     }
     setForm(prev => ({ ...prev, [name]: value, }));
   }
-  const handleChangePhone = ({target}) => {
-    const phoneFormat = target.value.replace(/(^\d{1})(\d{3})(\d{3})(\d{4,7})/, toPhone);
-    target.value = phoneFormat;
-  }
   function toPhone(match, p1, p2, p3, p4, offset, string) {
     return `+${p1}(${p2})${p3}-${p4}`;
   }
